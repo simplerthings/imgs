@@ -1,0 +1,16 @@
+
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Medium" transform="translate(-653.000000, -101.000000)">
+            <g id="menu" transform="translate(100.000000, 72.000000)">
+                <g id="search" transform="translate(285.000000, 20.000000)">
+                    <g id="clear" transform="translate(268.000000, 9.000000)">
+                        <circle id="Oval-Copy" fill="#979797" cx="10.7586207" cy="10.7586207" r="10.7586207"></circle>
+                        <line x1="7.79310345" y1="13.5862069" x2="13.5862069" y2="7.79310345" id="Line-Copy" stroke="#EDEDED" stroke-width="3" stroke-linecap="round"></line>
+                        <line x1="7.79310345" y1="7.79310345" x2="13.5862069" y2="13.5862069" id="Line-Copy-2" stroke="#EDEDED" stroke-width="3" stroke-linecap="round"></line>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,33 @@
+
+<svg width="65px" height="63px" viewBox="0 0 65 63" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <filter x="-36.6%" y="-38.5%" width="173.2%" height="176.9%" filterUnits="objectBoundingBox" id="filter-bzl_w6w0yp-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <ellipse id="path-bzl_w6w0yp-2" cx="20.5" cy="19.5" rx="20.5" ry="19.5"></ellipse>
+        <ellipse id="path-bzl_w6w0yp-4" cx="20.5" cy="19.5" rx="20.5" ry="19.5"></ellipse>
+    </defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="white" fill-rule="evenodd">
+        <g id="Medium" transform="translate(-17.000000, -80.000000)">
+            <g id="back-copy" filter="url(#filter-bzl_w6w0yp-1)" transform="translate(29.000000, 92.000000)">
+                <mask id="mask-bzl_w6w0yp-3" fill="white">
+                    <use xlink:href="#path-bzl_w6w0yp-2"></use>
+                </mask>
+                <g id="Mask"></g>
+                <mask id="mask-bzl_w6w0yp-5" fill="white">
+                    <use xlink:href="#path-bzl_w6w0yp-4"></use>
+                </mask>
+                <ellipse stroke="#979797" stroke-width="3" cx="20.5" cy="19.5" rx="22" ry="21"></ellipse>
+                <path d="M6.6,18.2 L16.2,8.6 C17.0836556,7.7163444 18.5163444,7.7163444 19.4,8.6 C20.2836556,9.4836556 20.2836556,10.9163444 19.4,11.8 L9.8,21.4 C8.9163444,22.2836556 7.4836556,22.2836556 6.6,21.4 C5.7163444,20.5163444 5.7163444,19.0836556 6.6,18.2 Z" id="Rectangle" fill="#979797" mask="url(#mask-bzl_w6w0yp-5)"></path>
+                <path d="M9.8,18.6 L19.4,28.2 C20.2836556,29.0836556 20.2836556,30.5163444 19.4,31.4 C18.5163444,32.2836556 17.0836556,32.2836556 16.2,31.4 L6.6,21.8 C5.7163444,20.9163444 5.7163444,19.4836556 6.6,18.6 C7.4836556,17.7163444 8.9163444,17.7163444 9.8,18.6 Z" id="Rectangle" fill="#979797" mask="url(#mask-bzl_w6w0yp-5)"></path>
+                <rect id="Rectangle" fill="#979797" mask="url(#mask-bzl_w6w0yp-5)" x="9" y="17" width="26" height="5" rx="2.5"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
